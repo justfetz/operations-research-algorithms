@@ -13,6 +13,12 @@
   - Python OR-Tools CP-SAT for knapsack
   - Java and Python greedy interval activity selection
 
+- `python-cutting-stock-operations-research`
+  - Java first-fit decreasing heuristic
+  - Python first-fit decreasing heuristic
+  - Python OR-Tools exact CP-SAT roll minimization
+  - sample roll plans with waste visibility
+
 ## Planned next repos
 
 - `python-cutting-stock-operations-research`

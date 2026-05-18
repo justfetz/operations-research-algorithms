@@ -19,6 +19,12 @@
   - Python OR-Tools exact CP-SAT roll minimization
   - sample roll plans with waste visibility
 
+- `transportation-and-transshipment-models`
+  - Java greedy least-cost transportation allocation
+  - Python greedy transportation and transshipment baselines
+  - Python OR-Tools linear optimization models
+  - route-level transshipment outputs through hubs
+
 ## Planned next repos
 
 - `python-cutting-stock-operations-research`

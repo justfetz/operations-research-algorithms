@@ -25,6 +25,12 @@
   - Python OR-Tools linear optimization models
   - route-level transshipment outputs through hubs
 
+- `truck-cubing-bin-packing`
+  - Java and Python first-fit decreasing bin packing
+  - Java and Python greedy truck cubing with cube and weight limits
+  - Python OR-Tools exact packing models
+  - sample load plans with waste visibility
+
 ## Planned next repos
 
 - `python-cutting-stock-operations-research`

@@ -12,6 +12,11 @@ It should point visitors to:
 - shared problem notes
 - implementation comparisons across languages and tools
 
+Useful umbrella docs:
+
+- [`docs/repo-map.md`](./docs/repo-map.md)
+- [`docs/implementation-matrix.md`](./docs/implementation-matrix.md)
+
 ## Portfolio structure
 
 ### Showcase repos

@@ -7,6 +7,12 @@
   - Python greedy baseline
   - Python OR-Tools CP-SAT
 
+- `knapsack-and-greedy-algorithms`
+  - Java dynamic programming for 0/1 knapsack
+  - Python dynamic programming for 0/1 knapsack
+  - Python OR-Tools CP-SAT for knapsack
+  - Java and Python greedy interval activity selection
+
 ## Planned next repos
 
 - `python-cutting-stock-operations-research`

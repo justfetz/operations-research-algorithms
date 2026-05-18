@@ -17,10 +17,10 @@ It should point visitors to:
 ### Showcase repos
 
 - `multi-machine-interval-scheduling`
+- `knapsack-and-greedy-algorithms`
 - `python-cutting-stock-operations-research`
 - `transportation-and-transshipment-models`
 - `truck-cubing-bin-packing`
-- `knapsack-and-greedy-algorithms`
 
 ### Learning / historical repos
 
@@ -55,7 +55,7 @@ Each public solver repo should include:
 ## Current build order
 
 1. `multi-machine-interval-scheduling`
-2. `python-cutting-stock-operations-research`
-3. `transportation-and-transshipment-models`
-4. `truck-cubing-bin-packing`
-5. `knapsack-and-greedy-algorithms`
+2. `knapsack-and-greedy-algorithms`
+3. `python-cutting-stock-operations-research`
+4. `transportation-and-transshipment-models`
+5. `truck-cubing-bin-packing`

@@ -9,6 +9,7 @@ This matrix shows the current implementation coverage across the public algorith
 | `python-cutting-stock-operations-research` | 1D cutting stock | Yes | Yes | Yes | No | Strong heuristic plus exact Python model; Java OR-Tools still open. |
 | `transportation-and-transshipment-models` | transportation, transshipment | Yes | Yes | Yes | Yes | Greedy route/allocation baselines plus linear optimization parity. |
 | `truck-cubing-bin-packing` | bin packing, truck cubing | Yes | Yes | Yes | Yes | Packing lane now has Java, Python, and OR-Tools parity. |
+| `network-capacity-transport-planner` | facility capacity planning, regional assignment | Yes | No | No | No | Public-safe repurposing of a real-world capacity planning model with CI and Java regression coverage. |
 
 ## Reading the matrix
 
@@ -23,6 +24,8 @@ The main remaining parity gap in the current public set is:
 
 - `python-cutting-stock-operations-research`
   - Java OR-Tools not added yet
+- `network-capacity-transport-planner`
+  - Python baseline, OR-Tools Python, and OR-Tools Java not added yet
 
 ## Practical takeaway
 
@@ -32,3 +35,4 @@ If someone wants the most complete parity examples first, start with:
 2. `knapsack-and-greedy-algorithms`
 3. `transportation-and-transshipment-models`
 4. `truck-cubing-bin-packing`
+5. `network-capacity-transport-planner` for a more applied real-world planning shape

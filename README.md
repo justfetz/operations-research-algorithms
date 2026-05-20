@@ -26,6 +26,7 @@ Useful umbrella docs:
 - `python-cutting-stock-operations-research`
 - `transportation-and-transshipment-models`
 - `truck-cubing-bin-packing`
+- `network-capacity-transport-planner`
 
 ### Learning / historical repos
 
@@ -40,6 +41,7 @@ These stay visible as part of the learning arc, but are not the polished public 
 - cutting stock
 - packing and cubing
 - transportation and transshipment
+- facility capacity planning
 - greedy methods
 - OR-Tools CP-SAT modeling
 - reproducible input / output driven solver design
@@ -64,3 +66,4 @@ Each public solver repo should include:
 3. `python-cutting-stock-operations-research`
 4. `transportation-and-transshipment-models`
 5. `truck-cubing-bin-packing`
+6. `network-capacity-transport-planner`
